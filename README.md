@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trojan782&layout=compact&theme=default" />
 </a>
+  <hr>
 <a href="">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trojan782"/>
  </a>
