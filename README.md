@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <a href="">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trojan782"/>
  </a>
-  <a href="">
+<!--   <a href=""> -->
 <!--   <img align ="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=trojancodes" alt="Jokes Card" /> -->
     
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=trojancodes)](https://github.com/anuraghazra/github-readme-stats) -->
