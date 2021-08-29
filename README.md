@@ -1,7 +1,7 @@
 <!--### Hi there 👋 -->
 <h1 align="center"> Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trojan782&label=Profile%20views&color=0e75b6&style=flat" alt="trojancodes" /> </p>
-<h3 align="center">I am Jacobs David, also called <i>TrojanCodes"</i>, A passionate Software Developer Focused On Backend...🚀</h3>
+<h3 align="center">I am Jacobs David, also called <i>"TrojanCodes"</i>, A passionate Software Developer Focused On Backend...🚀</h3>
 <!-- **trojan782/trojan782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!--
 Here are some ideas to get you started:
